@@ -12,7 +12,10 @@ My name is Kelvy! I'm working on web development and studing new stuffs about th
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
+</br>
+Ceci n'est pas une pipe.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanshoz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
